@@ -6,7 +6,7 @@ seeking creative solution. My goal is to start new internships or a new job posi
 <center><h2>EDUCATION</h2></center>
 <p>
 <b style = "float:left">Lebanese International University</b>
-<b style = "float:right">Beirut, saudi</b>
+<b style = "float:right">Beirut, Lebanon</b>
 </p>
 <br>
 <p>
@@ -20,7 +20,7 @@ Database Systems, Artificial Intelligence, Data Structures and algorithms.</li>
 </ul>
 <center><h2>WORK EXPERIENCE</h2></center>
 <p>
-<b style = "float:left">Mobily aramoun</b>
+<b style = "float:left">Mobily One</b>
 <b style = "float:right">Aramoun, Lebanon</b>
 </p>
 <br>
